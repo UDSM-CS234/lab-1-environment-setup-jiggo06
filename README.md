@@ -1,3 +1,5 @@
+# Reg no: 2020-04-04376  Name: Kongoi, Hassan Omary
+
 # CS 234 Lab 1: Hello World"
 
 ## 1. Preliminaries
